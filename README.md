@@ -1,6 +1,6 @@
-# Android-SFTP-Document-Provider
+## This app is no longer maintained, a new app with more functionalities is available [here](https://github.com/RikyIsola/FileManagerUtils)
 
-This app is no longer maintained, a new app with more functionalities is available [here](https://github.com/RikyIsola/FileManagerUtils)
+# Android-SFTP-Document-Provider
 
 This app makes the android default file manager an SFTP client
 
